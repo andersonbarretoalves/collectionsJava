@@ -16,4 +16,10 @@ objetos) dentro de uma única unidade.
 * **Implementações ou Classes:** São as materializações, a codificação das interfaces.
 * **Algoritmos:** É uma sequência lógica, finita e definida de instruções que devem ser seguidas para resolver um problema
 
+---
 
+### Lists
+
+`java.util.list`
+
+* Elementos duplicados e garante ordem de inserção.
