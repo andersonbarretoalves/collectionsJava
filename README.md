@@ -23,3 +23,10 @@ objetos) dentro de uma única unidade.
 `java.util.list`
 
 * Elementos duplicados e garante ordem de inserção.
+
+### Set
+
+`java.util.Set`
+
+* Não permite elementos duplicados
+* Não possui índice
