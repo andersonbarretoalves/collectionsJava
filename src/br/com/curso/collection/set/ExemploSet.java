@@ -1,4 +1,4 @@
-package br.com.curso.collection.list;
+package br.com.curso.collection.set;
 
 import java.util.*;
 
