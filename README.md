@@ -30,3 +30,7 @@ objetos) dentro de uma única unidade.
 
 * Não permite elementos duplicados
 * Não possui índice
+
+### Map
+
+* Elementos Unicos(key) para cada valor (value)
